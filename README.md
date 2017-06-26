@@ -1,8 +1,10 @@
-# Goglang Settings
+# Gogland Settings
 
-This repository houses various settings for Goglang configurations
+![Goglang](/docs/gogland.png)
 
-### Goglang
+This repository houses various settings for Gogland configurations
+
+### Gogland
 
 For more information on this editor:
 https://www.jetbrains.com/go/
